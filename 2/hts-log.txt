@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 May 2024 10:18:19 at https://preview.themeforest.net/item/holaa-ott-platform-and-video-streaming-wordpress-theme/full_screen_preview/51980727 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/holaa-ott-platform-and-video-streaming-wordpress-theme/full_screen_preview/51980727 -O1 "C:\My Web Sites\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:18:21	Warning: 	Link https://preview.themeforest.net/item/holaa-ott-platform-and-video-streaming-wordpress-theme/full_screen_preview/51980727 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 4 links scanned, 3 files written (93497 bytes overall) [78058 bytes received at 39029 bytes/sec], 27410 bytes transferred using HTTP compression in 2 files, ratio 29%
+(No errors, 1 warnings, 0 messages)
